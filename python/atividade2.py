@@ -1,0 +1,1 @@
+print("O numero informado é" , 2)
